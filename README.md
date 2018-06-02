@@ -9,5 +9,7 @@ It has menu to Restart and Exit the game.
 The controls to play the game are "Space" Key or "Mouse Left" click.
 
 ----
+
 Requires Open GL (glut).
+
 ----
